@@ -4,7 +4,7 @@ import Home from './pages/Home.jsx';
 import About from './pages/About.jsx';
 import Contact from './pages/Contact.jsx';
 import NotFound from './pages/NotFound.jsx';
-import Layout from './components/layout/Layout.js';
+import Layout from './components/layout/Layout.jsx';
 function App() {
 
   return (
