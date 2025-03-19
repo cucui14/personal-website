@@ -1,7 +1,10 @@
+import Navbar from "../navbar/Navbar";
+
 const Header = () => {
     return (
         <header>
-            <h1>Personal Website</h1>
+            <h1>My Website</h1>
+            <Navbar />
         </header>
     )
 }
